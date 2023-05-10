@@ -1,0 +1,5 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "dart.lineLength": 100,
+  "git.ignoreLimitWarning": true
+}
